@@ -33,7 +33,7 @@ gjabkfhhn fmjgfnjhnutfnhuftnibufidjthmnsgjith oigushgioufdhguh mr7hgush ogumgh s
     <body>
         <p> Esto es un código en HTML </p>
     <body>
-<html>
+</html>
 ```
 
 [link](https://www.fje.edu/es/fje "Enlace a la web del cole")
