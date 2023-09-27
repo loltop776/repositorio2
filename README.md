@@ -39,3 +39,8 @@ gjabkfhhn fmjgfnjhnutfnhuftnibufidjthmnsgjith oigushgioufdhguh mr7hgush ogumgh s
 [link](https://www.fje.edu/es/fje "Enlace a la web del cole")
 
 ![Imagen de puigdemont](https://www.elindependiente.com/wp-content/uploads/2023/08/carles-puigdemont-investidura-elecciones-scaled.jpg "Puigdemont")
+
+| Titulo | Alineación | Precios |
+| ---------- | :----------: | ----------: |
+| Col 2 es | centrada | $500 |
+| Col 3 es | Derecha | 1500€ |
