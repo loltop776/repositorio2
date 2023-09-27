@@ -44,3 +44,10 @@ gjabkfhhn fmjgfnjhnutfnhuftnibufidjthmnsgjith oigushgioufdhguh mr7hgush ogumgh s
 | ---------- | :----------: | ----------: |
 | Col 2 es | centrada | $500 |
 | Col 3 es | Derecha | 1500€ |
+| Final | Hola | 300€ |
+
+###### Exámen
+
+-[ ] Opción A
+-[X] Opción B
+-[ ] Opción C
